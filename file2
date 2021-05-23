@@ -1,0 +1,27 @@
+Committer: root <root@ip-172-31-40-88.ap-south-1.compute.internal>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 1 file changed, 5 insertions(+)
+[root@ip-172-31-40-88 html]# git push -u origin master
+Username for 'https://github.com': my-git-ship
+Password for 'https://my-git-ship@github.com': 
+Enumerating objects: 5, done.
+Counting objects: 100% (5/5), done.
+Compressing objects: 100% (2/2), done.
+Writing objects: 100% (3/3), 308 bytes | 308.00 KiB/s, done.
+Total 3 (delta 0), reused 0 (delta 0)
+To https://github.com/my-git-ship/my-file-1.git
+   fcc9a81..ac04eec  master -> master
+Branch 'master' set up to track remote branch 'master' from 'origin'.
+[root@ip-172-31-40-88 html]# Connection to ec2-35-154-64-125.ap-south-1.compute.amazonaws.com closed by remote host.
+Connection to ec2-35-154-64-125.ap-south-1.compute.amazonaws.com closed.
