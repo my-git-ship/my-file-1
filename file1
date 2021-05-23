@@ -7,3 +7,15 @@ icgwdcwdciwbccb
 
 
 jfhiwdufhwdufhwduofbwifbwsovu
+
+
+ch 'master' set up to track remote branch 'master' from 'origin'.
+[root@ip-172-31-40-88 html]# vim file1 
+[root@ip-172-31-40-88 html]# git add file1
+[root@ip-172-31-40-88 html]# git commit -m "may23,9:55"
+[master ac04eec] may23,9:55
+ Committer: root <root@ip-172-31-40-88.ap-south-1.compute.internal>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
